@@ -1,2 +1,9 @@
-# contact-footer
-Layout da seção de contato com footer do site
+# Contato e Footer
+Seção de contato com footer
+
+## Tecnologias utilizadas
+HTML | CSS/SASS | Bootstrap | UI Design
+
+<br /><br />
+
+![Diogo Realles](./img/cover.jpg)
