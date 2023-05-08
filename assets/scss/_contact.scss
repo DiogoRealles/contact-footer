@@ -1,0 +1,72 @@
+@use './variables' as *;
+
+
+.section-top {
+  color: $color-primary;
+  padding-inline: 60px;
+
+  h2 {
+    color: $color-secondary;
+  }
+
+  p {
+    max-width: 450px;
+  }
+
+  i {
+    font-size: 1.5em;
+    color: $color-secondary;
+  }
+
+  .col-form {
+    display: flex;
+  }
+
+  .col-button {
+    button {
+      width: 100%;
+    }
+  }
+}
+
+.section-bottom {
+  color: $white;
+  background: $color-secondary;
+  padding-top: 120px;
+
+  .nav-item a {
+    color: $white;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-primary;
+    }
+
+    ;
+  }
+
+  i {
+    font-size: 2em;
+    transition: all .4s ease-in-out;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+}
+
+.form {
+  margin-bottom: -70px;
+  box-shadow: -1px 2px 14px rgba(0, 0, 0, .75);
+}
+
+.btn-primary {
+  background: $color-secondary;
+  border: none;
+  border-radius: 0;
+  padding: 13px 0px;
+
+  &:hover {
+    background: $btn-hover;
+  }
+}
