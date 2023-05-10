@@ -26,7 +26,7 @@
   ## Clone
 
   ```
-  git clone https://github.com/DiogoRealles/contact-footer
+  git clone git@github.com:DiogoRealles/contact-footer.git
   ```
 </div>
 
