@@ -11,7 +11,7 @@
   <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> &nbsp;
   <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
 
-  ![Luxury](./assets/img/cover.jpg)
+  ![Contact Footer](./assets/img/cover.jpg)
 </div>
 
 <div>
