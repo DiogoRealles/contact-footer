@@ -16,7 +16,7 @@
 
 <div>
 
-  # ⚡ Visão Geral
+  # ⚡ Overview
   <b>Contato e Footer</b>: Seção de informações e formulários para contato.<br />
   Layout clean e moderno.
    
