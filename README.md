@@ -2,7 +2,7 @@
 
   # Contato e Footer
   
-  <p>Seção de contato e footer com design moderno e clean <br />
+  <p>Seção de contato e footer com design moderno e clean. <br />
   Formulário com acessibilidade e campos requiridos</p>
 
   <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> &nbsp;
